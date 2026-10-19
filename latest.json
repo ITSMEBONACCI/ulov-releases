@@ -1,0 +1,42 @@
+{
+  "build": 158,
+  "version": "0.1.158",
+  "commit": "3f23f511691b011857666d413c501eb696906065",
+  "publishedAt": "2026-10-19T18:01:00.994Z",
+  "customer": {
+    "build": 158,
+    "version": "0.1.158",
+    "apks": {
+      "arm64-v8a": {
+        "url": "https://raw.githubusercontent.com/ITSMEBONACCI/ulov-releases/main/ulov-customer-arm64-v8a.apk",
+        "size": 82313922
+      },
+      "armeabi-v7a": {
+        "url": "https://raw.githubusercontent.com/ITSMEBONACCI/ulov-releases/main/ulov-customer-armeabi-v7a.apk",
+        "size": 80050314
+      },
+      "x86_64": {
+        "url": "https://raw.githubusercontent.com/ITSMEBONACCI/ulov-releases/main/ulov-customer-x86_64.apk",
+        "size": 83863230
+      }
+    }
+  },
+  "driver": {
+    "build": 158,
+    "version": "0.1.158",
+    "apks": {
+      "arm64-v8a": {
+        "url": "https://raw.githubusercontent.com/ITSMEBONACCI/ulov-releases/main/ulov-driver-arm64-v8a.apk",
+        "size": 100115829
+      },
+      "armeabi-v7a": {
+        "url": "https://raw.githubusercontent.com/ITSMEBONACCI/ulov-releases/main/ulov-driver-armeabi-v7a.apk",
+        "size": 94773107
+      },
+      "x86_64": {
+        "url": "https://raw.githubusercontent.com/ITSMEBONACCI/ulov-releases/main/ulov-driver-x86_64.apk",
+        "size": 102182070
+      }
+    }
+  }
+}
